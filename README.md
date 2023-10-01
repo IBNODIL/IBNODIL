@@ -1,4 +1,4 @@
-<h1 align="center">Hello this is my old portfolio now I am building new portfolio Rustamov Mubashshirhon</h1>
+<h1 align="center">Hello Rustamov Mubashshirhon</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibnodil&label=Profile%20views&color=0e75b6&style=flat" alt="ibnodil" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibnodil" alt="ibnodil" /></a> </p>
